@@ -1,6 +1,14 @@
 ## Hi there 👋
 
+<!-- 个人评分 -->
 ![lagrahhn's GitHub stats](https://github-readme-stats.vercel.app/api?username=lagrahhn)
+
+<!-- 语言统计 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagrahhn)
+
+<!-- 活动图 -->
+![lagrahhn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lagrahhn)
+
 
 
 <!--
